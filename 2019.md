@@ -1,7 +1,7 @@
 # 2019 Events
-| Event | Topic | Venue | Date | Link |
-|------------------|---|---|---|---|
-| Microsoft Ignite: The Tour | Azure | ICC Sydney | February 13-14  | [Link](https://www.microsoft.com/en-au/ignite-the-tour/sydney)  |
+Event | Topic | Venue | Date | Link
+------------------|---|---|---|---
+Microsoft Ignite: The Tour | Azure | ICC Sydney | February 13-14  | [Link](https://www.microsoft.com/en-au/ignite-the-tour/sydney)
 | Gartner Data & Analytics Summit 2019 | Digital Transformation | ICC Sydney | February 18-19 | [Link](http://www.gartner.com/en/conferences/apac/data-analytics-australia) |
 | Google Cloud OnBoard Big Data and Machine Learning | GCP/Data Science | ICC Sydney | February 27 | [Link](https://cloudplatformonline.com/2019-OnBoard-ANZ.html) |
 | Sydney NetApp Users Group February | Hybrid Cloud | NetApp Sydney Office | February 28 | [Link](http://meetu.ps/e/GjJsS/1nCsp/a) |
