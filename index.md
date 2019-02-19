@@ -1,1 +1,32 @@
-* Tech Events
+# 2019 Events
+| Event | Topic | Venue | Date | Link |
+|------------------|---|---|---|---|
+| Microsoft Ignite: The Tour | Azure | ICC Sydney | February 13-14  | [Link](https://www.microsoft.com/en-au/ignite-the-tour/sydney)  |
+| Gartner Data & Analytics Summit 2019 | Digital Transformation | ICC Sydney | February 18-19 | [Link](http://www.gartner.com/en/conferences/apac/data-analytics-australia) |
+| Google Cloud OnBoard Big Data and Machine Learning | GCP/Data Science | ICC Sydney | February 27 | [Link](https://cloudplatformonline.com/2019-OnBoard-ANZ.html) |
+| Sydney NetApp Users Group February | Hybrid Cloud | NetApp Sydney Office | February 28 | [Link](http://meetu.ps/e/GjJsS/1nCsp/a) |
+| Google Cloud OnBoard Big Data and Machine Learning | GCP/Data Science | Melbourne Convention & Exhibition Centre | February 28 | [Link](https://cloudplatformonline.com/2019-OnBoard-ANZ.html) |
+| Google Cloud OnBoard Big Data and Machine Learning | GCP/Data Science | Brisbane Convention & Exhibition Centre | March 5 | [Link](https://cloudplatformonline.com/2019-OnBoard-ANZ.html) |
+| Google Cloud OnBoard Big Data and Machine Learning | GCP/Data Science | Perth Convention & Exhibition Centre | March 7 | [Link](https://cloudplatformonline.com/2019-OnBoard-ANZ.html) |
+| Google Cloud OnBoard Big Data and Machine Learning | GCP/Data Science | Cordis, Auckland | March 11 | [Link](https://cloudplatformonline.com/2019-OnBoard-ANZ.html) |
+| DevOps Talks | DevOps | Melbourne Convention Centre | March 21-22  | [Link](https://www.devopstalks.com/au/devops.html) |
+| Digital Disruption X | Digital Transformation | Novotel Sydney Central, Sydney | March 26-27 | [Link](https://digitaldisruption.iqpc.com.au/) |
+| Google Cloud Next | GCP | Moscone Center, SF | April 9-11 | [Link](https://cloud.withgoogle.com/next/sf) |
+| Gartner IT Infrastructure, Operations & Cloud Strategies 2019 |  | ICC Sydney | April 29-30 | [Link](http://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia)
+| DockerCon 2019 | Containers | Moscone Center, SF | April 30-May 2 | [Link](https://www.docker.com/dockercon/) |
+| AWS Summit Sydney | AWS | Sydney | 30 Apr-May 2 | Link |
+| Open Infrastructure Summit (OpenStack Summit) | Open Infrastructure | The Colorado Convention Center, Denver | April 29-May 1 | [Link](https://www.openstack.org/summit/denver-2019/) |
+| Red Hat Summit US | Red Hat | Boston | May 7-9 | [Link](https://www.redhat.com/en/summit/2019) |
+| THETA 2019 | Higher Education | Novotel Wollongong, NSW, Australia | May 9-22 | [Link](https://theta.edu.au/) |
+| VeeamON 2019 | Veeam | Miami | May 20-22 | [Link](https://www.veeam.com/veeamon) |
+| Cisco Live US | Cisco | San Diego | June 9-13 | Link |
+| Microsoft Inspire | Microsoft Partners | Las Vegas | July 14 - 18 | Link | 
+| Tech in Gov 2019 | Government | National Convention Centre, Canberra | August 6-7 | [Link](https://www.terrapinn.com/conference/technology-in-government/index.stm) 
+| VMworld US | VMware | Las Vegas | August 25 - 30 | [Link](https://www.vmworld.com/en/us/index.html) |
+| NDC Sydney | Software Development | Hilton Sydney | October 14-18 | [Link](https://ndcsydney.com/) |
+| NetApp Insight 2019 | NetApp | Mandalay Bay, Las Vegas | October 28 - 30 | [Link](https://insight.netapp.com/) |
+| Open Infrastructure Summit Shanghai | Open Infrastructure | Shanghai | November | [Link](https://www.openstack.org/summit/shanghai-2019) |
+| VMworld Europe | VMware | Barcelona | November 4-7 | Link |
+| Microsoft Ignite | Microsoft | Orlando | November 4-8 | Link|
+| KubeCon CloudNativeCon | Containers | November 18-21 | San Diego Convention Center, San Diego | [Link](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) |
+| AWS re:Invent 2019 | AWS | Dec 2-6 | Las Vegas | Link |
