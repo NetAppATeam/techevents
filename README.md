@@ -1,6 +1,8 @@
 # techevents
 Things that are happening in the world of tech.
 
+Pretty version of this site: https://netappateam.github.io/techevents/
+
  * [2020 techevents](./2020.md)
  * [2019 techevents](./2019.md)
 
